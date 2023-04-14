@@ -5,7 +5,9 @@ project: Image Processing and Object Detection
 topics:
     - Web Development, Fin-Tech
 mentors:
-    - Suyash Waghmare & Prajyot Pandit Chakre (21b080022) 
+    - Suyash Waghmare
+    - Prajyot Pandit Chakre (21b080022) 
+    - Chaitanya Sannake
     
 mentees:
 - 5

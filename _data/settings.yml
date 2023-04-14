@@ -832,6 +832,14 @@ soc-items:
      - type: "Development" 
      - type: "2023"
 
+  - title : "Light (Rendering) Engine"
+    image_small: "assets/images/soc/2023/item304.png"
+    image : "assets/images/soc/2023/item304.png"
+    url: "/soc/projects/2023/project304"
+    soc-type:
+     - type: "Miscellaneous" 
+     - type: "2023"
+
 Done:
     
   # 2021 and earlier projects

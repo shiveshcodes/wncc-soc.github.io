@@ -76,11 +76,6 @@ As a mentor, here are some pre-requisites that I would expect from the mentees:
 
 4  Knowledge of Blockchain Basics: My mentees should have a basic understanding of blockchain technology and how it works, including the concepts of distributed ledgers, consensus algorithms, and smart contracts. Just the roadmap OfCourse
 
-5 Familiarity with Solidity: Solidity is the primary programming language used for writing smart contracts on the Ethereum blockchain.
-
-6 Understanding of Cryptography: Cryptography is an essential aspect of blockchain technology, so your mentees should have a basic understanding of cryptographic concepts, such as public and private keys, hashing, and digital signatures.
-
-
 Don't worry if you don't know some of these, I and my co-mentor will make you learn all of these and help you at all the points        <br>
     </p>
 </div>

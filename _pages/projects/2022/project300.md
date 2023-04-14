@@ -5,7 +5,7 @@ project: Hands-on Computational Physics
 topics:
     - Machine Learning
 mentors:
-    - Kaustav Prasada
+    - Kaustav Prasad
     - Varad Mahashabde (200260057)
     
 mentees:

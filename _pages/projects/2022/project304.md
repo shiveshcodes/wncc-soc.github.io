@@ -1,16 +1,17 @@
 ---
 layout: project
 title: Seasons of Code
-project: Unreal IITB
+project: Light (Rendering) Engine
 topics:
-    - Machine Learning
+    - Development
 mentors:
-    - Harshit Morj
+    - Divyansh Tiwari
+    - Tirthankar Majumdar
     
 mentees:
 - 5-6
     
-permalink: /soc/projects/2023/project272
+permalink: /soc/projects/2023/project304
 ---
 
 <h2 class="display1 m-3 p-3 text-center project-title">{{page.project}}</h2>
@@ -50,18 +51,20 @@ permalink: /soc/projects/2023/project272
 <div>
     <p class="display3 project-desc" style = "font-size:22px;" >
         <br>
-        The objective of this project is to have fun and play with Unreal Engine 5. The final objective is to Generate a 3D model of our campus using Unreal Engine. We will be mostly following a beginner's tutorial from youtube to get familiar with UE5 and in the later days, try to build  a realistic model of your surroundings in parts. This will be mostly a team project and the final project will be a sum of all your work.
-<br>
-https://www.unrealengine.com/en-US/unreal-engine-5
-https://docs.unrealengine.com/5.0/en-US/
-<br>
-It's not that hard!! This guy made an open world game in 24 hours.
-https://www.youtube.com/watch?v=3DjY1T42b_M
+   https://github.com/Physicc/Light
+
+Light is a lightweight game engine written in C++17. It is currently in development and is not yet ready for use
+
+You will be working in developing and designing rendering algorithms, and implement the rendering subsystem of the game engine. Some of the systems you will be working on:
+1) Material System
+2) Blinn-Phong Shading System
+3) PBR Shading System
+4) Shadows
 <br>
 PreReqs:
 <br>
-No prereqs per se but an interest in game development, 3D modeling, and a passion for creating interactive experiences.
-</div>
+Come with lots of Enthusiasm. No pre requisites as such. 
+</p>
 <div class ="d-flex">
 <div>
     <h4 class="display3" style="margin:40px 0px 40px 0px;">Tentative Timeline :</h4>
@@ -74,16 +77,32 @@ No prereqs per se but an interest in game development, 3D modeling, and a passio
   </thead>
   <tbody>
     <tr>
-      <td><strong>Week 1-3</strong></td>
-      <td>Learn the basics (Follow a YouTube tutorial), (How to) Modelling and Play with UE5</td>
+      <td><strong>Week 1</strong></td>
+      <td> Learn basics of rendering from learnopengl.com</td>
     </tr>
     <tr>
-      <td><strong>Week 4-5 </strong></td>
-      <td>Make a model (most prolly a hostel room) and submit as project, Progress Review</td>
+      <td><strong>Week 2</strong></td>
+      <td> Implement basic rendering system using core opengl</td>
     </tr>
     <tr>
-      <td><strong>Week 6-8  </strong></td>
-      <td>Start and Make a model of campus as much as you can in three weeks </td>
+      <td><strong>Week 3  </strong></td>
+      <td>Setup and walkthrough the Light codebase on system </td>
+    </tr>
+    <tr>
+      <td><strong>Week 4  </strong></td>
+      <td>Directional Lights, Spot Lights</td>
+    </tr>
+    <tr>
+      <td><strong>Week 5  </strong></td>
+      <td>Directional Light, Spot Light Shadow Maps</td>
+    </tr>
+    <tr>
+      <td><strong>Week 6-7 </strong></td>
+      <td>Material System</td>
+    </tr>
+    <tr>
+      <td><strong>Week 8</strong></td>
+      <td>Physically Based Rendering System </td>
     </tr>
         </tbody>
     </table>
