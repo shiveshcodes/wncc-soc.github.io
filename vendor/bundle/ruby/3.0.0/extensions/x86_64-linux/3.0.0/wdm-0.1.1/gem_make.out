@@ -1,0 +1,11 @@
+current directory: /home/shivesh/Documents/Github/wncc-website.github.io/vendor/bundle/ruby/3.0.0/gems/wdm-0.1.1/ext/wdm
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230412-10534-o250wh.rb extconf.rb
+
+current directory: /home/shivesh/Documents/Github/wncc-website.github.io/vendor/bundle/ruby/3.0.0/gems/wdm-0.1.1/ext/wdm
+make DESTDIR\= clean
+
+current directory: /home/shivesh/Documents/Github/wncc-website.github.io/vendor/bundle/ruby/3.0.0/gems/wdm-0.1.1/ext/wdm
+make DESTDIR\=
+
+current directory: /home/shivesh/Documents/Github/wncc-website.github.io/vendor/bundle/ruby/3.0.0/gems/wdm-0.1.1/ext/wdm
+make DESTDIR\= install
